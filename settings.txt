@@ -1,0 +1,7 @@
+
+port=8085
+logFilename=server.log
+
+hostname=localhost
+port=8085
+logFilename=server.log
